@@ -2,8 +2,8 @@
 {
     public enum NumberType
     {
-        მობილური,
-        ოფისი,
-        სახლი
+        Mobile = 1,
+        Office = 2,
+        Home = 3
     }
 }

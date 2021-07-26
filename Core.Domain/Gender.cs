@@ -2,7 +2,7 @@
 {
     public enum Gender
     {
-        მდედრობითი,
-        მამრობითი
+        Female = 1,
+        Male = 2
     }
 }

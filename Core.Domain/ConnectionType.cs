@@ -2,9 +2,9 @@
 {
     public enum ConnectionType
     {
-        კოლეგა,
-        ნაცნობი,
-        ნათესავი,
-        სხვა
+        Colleague,
+        Friend,
+        Relative,
+        Other
     }
 }
