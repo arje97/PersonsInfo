@@ -18,6 +18,7 @@ namespace Infrastructure.Database
             services.AddScoped<IPersonRepository, PersonRepository>();
             services.AddScoped<IPhoneNumberRepository, PhoneNumberRepository>();
             services.AddScoped<IPersonReport, PersonReport>();
+            services.AddScoped<ICityRepository, CityRepository>();
         }
     }
 
